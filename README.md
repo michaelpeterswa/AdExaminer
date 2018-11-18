@@ -1,5 +1,5 @@
 # AdExaminer
-AdExaminer Version 0.0.1 - A chrome extension for examining Google AdSense Advertisements
+AdExaminer Version 0.0.1 - A chrome extension for examining Google AdSense Advertisements.
 
 > Program that examines why a specific AdSense ad was shown to the user.
 
