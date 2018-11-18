@@ -6,8 +6,14 @@ AdExaminer Version 0.0.1 - A chrome extension for examining Google AdSense Adver
 ## Development setup
 
 ```
-none at this time
+chrome://extensions
 ```
+then check "Developer Mode" in the top righthand corner
+
+"load unpacked" with the folder that you've downloaded
+
+AdExaminer should be an extension now!
+
 
 ## Release History
 
