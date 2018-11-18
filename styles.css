@@ -1,0 +1,33 @@
+html{
+    background-color: #353535
+
+}
+body {
+    min-height: 150px;
+    width: 250px;
+    font-family: export ,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: cornsilk;
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+
+.title {
+    text-align: center;
+}
+
+.version {
+    font-family: export ,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: cornsilk;
+    font-size: 15px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.codeicon {
+    padding-top: 10px;
+    text-align: center;
+}
